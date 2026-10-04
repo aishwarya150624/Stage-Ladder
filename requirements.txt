@@ -1,0 +1,6 @@
+
+gradio>=5.0
+faster-whisper>=1.0
+av>=14
+ollama>=0.3
+ 
